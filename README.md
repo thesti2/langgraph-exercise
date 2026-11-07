@@ -140,7 +140,9 @@ The tickets are in `tickets.py`. Run each one on its own thread.
 | `T7` damaged blender, 75 days | human_review (amount > $100) | Recommendation is a full refund even though it's past 60 days |
 
 **Global checks:** after running all tickets, `orders.REFUND_LEDGER` holds exactly one
-entry per approved ticket, and `orders.OUTBOX` holds exactly one email per ticket.
+entry per approved **order**, and `orders.OUTBOX` holds exactly one email per ticket.
+T2 and T3 are the same customer asking about the same order (SF-1002), so running both
+should refund SF-1002 only once.
 
 ## Stretch goals
 
