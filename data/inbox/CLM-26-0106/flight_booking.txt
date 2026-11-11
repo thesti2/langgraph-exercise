@@ -1,0 +1,8 @@
+SKYLINE AIR - BOOKING AND CANCELLATION SUMMARY
+Booking reference: BK-QR8812        Booked on: 2026-02-10
+Passenger: HADDAD/FARAH MS
+Flights: SA 112 Boston (BOS) -> Rome (FCO) 2026-05-20; SA 113 Rome (FCO) -> Boston (BOS) 2026-05-27
+Fare type: Saver (non-refundable, non-changeable)
+Amount paid: USD 1,400.00
+Cancelled on: 2026-05-18
+Refund issued: USD 0.00

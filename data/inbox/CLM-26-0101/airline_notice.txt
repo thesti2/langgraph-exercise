@@ -1,0 +1,11 @@
+SKYLINE AIR - FLIGHT DELAY CONFIRMATION
+========================================
+Passenger:            TANAKA/AIKO MS
+Booking reference:    QX7P2L
+Flight:               SA 418  Lisbon (LIS) -> New York (JFK)
+Scheduled departure:  2026-04-14 09:05 (Europe/Lisbon)
+Actual departure:     2026-04-14 22:20 (Europe/Lisbon)
+Cause of delay:       Unscheduled technical maintenance on the aircraft
+
+This letter confirms the information held in our operational records.
+Skyline Air Customer Relations

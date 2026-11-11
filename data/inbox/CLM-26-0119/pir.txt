@@ -1,0 +1,12 @@
+PROPERTY IRREGULARITY REPORT (PIR)
+==================================
+File reference:   GRUSA20554
+Airline:          Skyline Air
+Flight:           SA 505 Miami (MIA) -> Sao Paulo (GRU)
+Arrived:          2026-10-20 07:15 (America/Sao_Paulo)
+Report filed:     2026-10-20 08:00 (America/Sao_Paulo)
+Bag tag:          SA 771905
+Bag description:  Silver hard-shell suitcase, 26 inch
+Contents (as stated by passenger): camera, toiletries bag, clothes
+Trace status:     Not located after 7-day trace. Declared permanently lost on 2026-10-27.
+Valuables declaration at check-in: see separate form if applicable

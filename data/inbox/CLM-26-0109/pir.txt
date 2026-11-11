@@ -1,0 +1,12 @@
+PROPERTY IRREGULARITY REPORT (PIR)
+==================================
+File reference:   DENSA30981
+Airline:          Skyline Air
+Flight:           SA 640 Seattle (SEA) -> Denver (DEN)
+Arrived:          2026-06-20 18:10 (America/Denver)
+Report filed:     2026-06-20 18:55 (America/Denver)
+Bag tag:          SA 902117
+Bag description:  Grey soft duffel bag
+Contents (as stated by passenger): headphones, sneakers, clothes
+Trace status:     Not located after 7-day trace. Declared permanently lost on 2026-06-27.
+Valuables declaration at check-in: see separate form if applicable

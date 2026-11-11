@@ -1,0 +1,11 @@
+SKYLINE AIR - FLIGHT DELAY CONFIRMATION
+========================================
+Passenger:            OKAFOR/BEN MR
+Booking reference:    TR4K9D
+Flight:               SA 090  Chicago (ORD) -> London (LHR)
+Scheduled departure:  2026-02-07 18:00 (America/Chicago)
+Actual departure:     2026-02-09 00:30 (America/Chicago)
+Cause of delay:       Severe winter storm; airport closed by the authorities
+
+This letter confirms the information held in our operational records.
+Skyline Air Customer Relations

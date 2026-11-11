@@ -1,0 +1,7 @@
+HOTEL VIA ROMA - RESERVATION STATEMENT
+Confirmation no: HVR-55201          Booked on: 2026-02-12
+Guest: Farah Haddad
+Stay: 2026-05-20 to 2026-05-27 (7 nights), Deluxe Double
+Rate: Advance Purchase - fully prepaid, non-refundable
+Amount charged: USD 1,800.00
+Cancellation received: 2026-05-18   Refund: USD 0.00

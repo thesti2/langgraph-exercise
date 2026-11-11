@@ -1,0 +1,13 @@
+BANGKOK RIVERSIDE HOSPITAL - ITEMISED INVOICE
+Invoice no: BRH-660192              Invoice date: 2026-09-07
+Patient: Clara Jensen (international patient)
+Admission: 2026-09-03 23:15   Discharge: 2026-09-07 11:00
+------------------------------------------------------------
+Emergency department assessment               USD    420.00
+CT abdomen with contrast                      USD    610.00
+Laparoscopic appendectomy (surgeon + theatre) USD  4,350.00
+Anaesthesia                                   USD    780.00
+Inpatient room, 4 nights                      USD  1,240.00
+Medication and consumables                    USD    400.00
+------------------------------------------------------------
+TOTAL (settled by patient, card ending 8820)  USD  7,800.00

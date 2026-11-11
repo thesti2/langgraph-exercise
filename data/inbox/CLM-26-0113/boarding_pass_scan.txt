@@ -1,0 +1,5 @@
+SKYLINE AIR - BOARDING RECORD (EXTRACT)
+Passenger: TANAKA/AIKO MS     Flight: SA 006 HND-LAX     Seat: 34K
+Gate boarding scan:  2026-03-02T06:10:00Z
+Aircraft doors closed / off-block: 2026-03-02T06:30:00Z
+All times in this record are UTC.

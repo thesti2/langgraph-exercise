@@ -1,0 +1,12 @@
+PROPERTY IRREGULARITY REPORT (PIR)
+==================================
+File reference:   FCOSA77031
+Airline:          Skyline Air
+Flight:           SA 112 Boston (BOS) -> Rome (FCO)
+Arrived:          2026-10-05 16:00 (Europe/Rome)
+Report filed:     2026-10-05 16:45 (Europe/Rome)
+Bag tag:          SA 664120
+Bag description:  Navy carry-on sized roller, gate-checked
+Contents (as stated by passenger): cash (USD 400), sunglasses, toiletries
+Trace status:     Not located after 7-day trace. Declared permanently lost on 2026-10-12.
+Valuables declaration at check-in: see separate form if applicable

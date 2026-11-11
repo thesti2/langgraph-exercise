@@ -1,0 +1,11 @@
+SKYLINE AIR - FLIGHT DELAY CONFIRMATION
+========================================
+Passenger:            HADDAD/FARAH MS
+Booking reference:    LN7C2R
+Flight:               SA 017  London (LHR) -> New York (JFK)
+Scheduled departure:  2026-08-01 10:00 (Europe/London)
+Actual departure:     2026-08-01 15:50 (Europe/London)
+Cause of delay:       Air traffic flow restrictions
+
+This letter confirms the information held in our operational records.
+Skyline Air Customer Relations

@@ -1,0 +1,11 @@
+SKYLINE AIR - FLIGHT DELAY CONFIRMATION
+========================================
+Passenger:            PETROV/IVAN MR
+Booking reference:    BR5M1C
+Flight:               SA 552  Berlin (BER) -> New York (JFK)
+Scheduled departure:  2026-05-02 11:00 (Europe/Berlin)
+Actual departure:     2026-05-03 01:00 (Europe/Berlin)
+Cause of delay:       Aircraft damaged by ground equipment; replacement aircraft positioned
+
+This letter confirms the information held in our operational records.
+Skyline Air Customer Relations

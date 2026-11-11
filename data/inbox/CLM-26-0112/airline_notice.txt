@@ -1,0 +1,11 @@
+SKYLINE AIR - FLIGHT DELAY CONFIRMATION
+========================================
+Passenger:            RAMOS/DIEGO MR
+Booking reference:    MD3V6T
+Flight:               SA 381  Madrid (MAD) -> Miami (MIA)
+Scheduled departure:  2026-07-03 12:00 (Europe/Madrid)
+Actual departure:     2026-07-03 19:10 (Europe/Madrid)
+Cause of delay:       Late arrival of the inbound aircraft
+
+This letter confirms the information held in our operational records.
+Skyline Air Customer Relations

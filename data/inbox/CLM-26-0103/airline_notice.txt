@@ -1,0 +1,13 @@
+SKYLINE AIR - FLIGHT DELAY CONFIRMATION
+========================================
+Passenger:            RAMOS/DIEGO MR
+Booking reference:    PL2W8Z
+Flight:               SA 731  Paris (CDG) -> Madrid (MAD)
+Scheduled departure:  2026-04-15 07:30 (Europe/Paris)
+Actual departure:     2026-04-15 15:45 (Europe/Paris)
+Cause of delay:       National air traffic controllers' strike
+
+Note: strike action was formally notified by the controllers' union on 2026-04-10 and published by the civil aviation authority the same day.
+
+This letter confirms the information held in our operational records.
+Skyline Air Customer Relations

@@ -1,0 +1,12 @@
+SKYLINE AIR - FLIGHT DELAY CONFIRMATION
+========================================
+Passenger:            TANAKA/AIKO MS
+Booking reference:    HN8F4Q
+Flight:               SA 006  Tokyo Haneda (HND) -> Los Angeles (LAX)
+Scheduled departure:  2026-03-01 17:00 (Asia/Tokyo)
+Cause of delay:       Engine component replacement; departure rescheduled
+
+The actual departure time is recorded on the passenger's boarding pass scan.
+
+This letter confirms the information held in our operational records.
+Skyline Air Customer Relations

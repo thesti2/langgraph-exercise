@@ -1,0 +1,5 @@
+HOSPITAL MAR BLAU - FACTURA / INVOICE
+Invoice no: HMB-44120               Invoice date: 2026-09-22
+Patient: Elif Yilmaz
+Emergency admission 2026-09-20, orthopaedic surgery, 2 nights
+TOTAL (paid by patient)             USD 6,200.00

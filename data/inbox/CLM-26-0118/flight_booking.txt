@@ -1,0 +1,6 @@
+SKYLINE AIR - BOOKING AND CANCELLATION SUMMARY
+Booking reference: BK-MX4410        Booked on: 2026-07-19
+Passenger: OKAFOR/BEN MR
+Flights: SA 274 Chicago (ORD) -> Mexico City (MEX) 2026-10-10; return 2026-10-17
+Fare type: Saver (non-refundable)
+Amount paid: USD 650.00     Refund issued: USD 0.00

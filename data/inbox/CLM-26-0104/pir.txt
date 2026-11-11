@@ -1,0 +1,12 @@
+PROPERTY IRREGULARITY REPORT (PIR)
+==================================
+File reference:   LISSA55120
+Airline:          Skyline Air
+Flight:           SA 207 New York (JFK) -> Lisbon (LIS)
+Arrived:          2026-06-10 20:55 (Europe/Lisbon)
+Report filed:     2026-06-10 21:40 (Europe/Lisbon)
+Bag tag:          SA 448812
+Bag description:  Black hard-shell suitcase, 28 inch
+Contents (as stated by passenger): laptop, clothing
+Trace status:     Not located after 18-day trace. Declared permanently lost on 2026-06-28.
+Valuables declaration at check-in: see separate form if applicable
